@@ -13,6 +13,12 @@ This project is a Python automation script that moves all `.jpg` files from a so
 2. It finds all JPG files.
 3. It moves the JPG files to the destination folder.
 4. It displays the moved files.
+   ### Sample Output
+
+```text
+Files found: ['sweet.jpg']
+Moved: sweet.jpg
+Done!
 
 ## Task
 Task 3 - Task Automation with Python Scripts
